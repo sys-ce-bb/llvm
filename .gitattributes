@@ -1,1 +1,7 @@
 .github/CODEOWNERS merge=ours
+.github/workflows/sycl_precommit.yml merge=ours
+sycl/test/warnings/sycl_2020_deprecations.cpp merge=ours
+sycl/test/esimd/esimd_verify.cpp merge=ours
+sycl/test-e2e/Matrix/element_wise_all_ops_int8_packed_impl.hpp merge=ours
+sycl/test-e2e/Matrix/element_wise_all_ops_int8_impl.hpp merge=ours
+
